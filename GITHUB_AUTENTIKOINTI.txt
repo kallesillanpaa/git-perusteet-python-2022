@@ -1,0 +1,19 @@
+Autentikointi GitHubiin personal tokenin avulla:
+
+1) Kirjaudu github.com:iin
+2) Klikkaa oikealta yläkulmasta profiilipainiketta, valitse Settings
+3) Rullaa sivua alaspäin, valitse Developer settings
+4) Klikkaa Personal access tokens
+5) Klikkaa Generate new token
+6) Syötä Note-kenttään haluamasi nimi, valitse expiration-kohdasta, kauanko token on voimassa, klikkaa select scopes -kohdasta
+ylin kohta, eli rasti ruutuun 'repo'
+7) Rullaa sivua alaspäin, klikkaa Generate token
+8) Tallenna sivulla näkyvä token itsellesi talteen. Tokenin vierestä voit kopioida sen leikepöydälle.
+
+9) Linkitä netissä oleva repositorysi git-initialisoituun kansioon:
+git remote add origin https://TOKEN_TÄHÄN@github.com/GITHUB_KÄYTTÄJÄNIMESI_TÄHÄN/REPOSITORYSI_NIMI_TÄHÄN.git
+
+10) Nyt voit käyttää komentoja git clone, git pull ja git push ilman erillistä tunnistautumista.
+
+11) Esim. repositoryn kloonaus kotikoneelle (luo saman nimisen kansion kuin repositorykin):
+git clone https://github.com/GITHUB_KÄYTTÄJÄNIMI/REPOSITORYN_NIMI.git

@@ -1,0 +1,17 @@
+Git Tutorial for Beginners: Learn Git in 1 Hour (programming with Mosh):
+https://www.youtube.com/watch?v=8JJ101D3knE&t=1465s&ab_channel=ProgrammingwithMosh
+
+Learn Git in 15 Minutes: (Colt Steele):
+https://www.youtube.com/watch?v=USjZcfj8yxE&list=PLBYH6D4hh43Xrw2ARRDPkM-vfmPxSvjD9&index=4&t=323s&ab_channel=ColtSteele
+
+Git Stash Tutorial (7 mins):
+https://www.youtube.com/watch?v=-aPoRU5W8lA&ab_channel=Ihatetomatoes
+
+Git Reset Basics (5 mins):
+https://youtu.be/qpIvpP1Ag2A
+
+Learn GitHub in 20 Minutes: (Colt Steele):
+https://youtu.be/nhNq2kIvi9s
+
+Git Rebase vs. Merge (20 mins):
+https://youtu.be/7Mh259hfxJg
